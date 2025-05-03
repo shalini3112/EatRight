@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524426990388",
+    "project_id": "eatright-d6ff5",
+    "storage_bucket": "eatright-d6ff5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524426990388:android:4908a5a6d2ef2d55c88b61",
+        "android_client_info": {
+          "package_name": "com.example.eatright"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOaIqXt2asTVY1HbejvZoc97tZDVmaRRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
